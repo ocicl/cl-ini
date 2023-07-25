@@ -1,0 +1,10 @@
+* cl-ini
+
+lisp ini parser
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/compufox/cl-ini.git   |
+| commit  | {"messa  |
+| systems | cl-ini |
+|---------+-------------------------------------------|
+
