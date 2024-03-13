@@ -2,9 +2,8 @@
 
 lisp ini parser
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/compufox/cl-ini.git   |
-| commit  | e630acb  |
-| systems | cl-ini |
-|---------+-------------------------------------------|
-
+|---------+--------------------------------------------|
+| source  | git:https://github.com/compufox/cl-ini.git |
+| commit  | 25a1949                                    |
+| systems | cl-ini                                     |
+|---------+--------------------------------------------|
